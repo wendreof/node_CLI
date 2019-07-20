@@ -1,0 +1,13 @@
+{
+  "name": "06-cli",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "sudo mocha -w"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "commander": "^2.20.0",
+    "mocha": "^6.1.4"
+  }
+}
